@@ -8,7 +8,7 @@ description: ""
 
 # subtitle: "A new way to analyze your personal chat history"
 
-# image: "/posts/2020-04-05_introducing-converscope/images/1.png" 
+image: "/posts/2024-11-12_supermarket_street_sweep_tsp/tsp_modified.png" 
 # images:
 #  - "/posts/2020-04-05_introducing-converscope/images/1.png"
 #  - "/posts/2020-04-05_introducing-converscope/images/2.png"
