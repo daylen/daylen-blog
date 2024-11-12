@@ -5,6 +5,8 @@ theme: ["PaperMod"]
 params:
   # disableThemeToggle: true
   ShowReadingTime: true
+  assets:
+    disableScrollBarStyle: true
 menu:
   main:
     - identifier: archives
