@@ -9,18 +9,9 @@ description: ""
 # subtitle: "A new way to analyze your personal chat history"
 
 image: "/posts/2024-11-12_supermarket_street_sweep_tsp/tsp_modified.png" 
-# images:
-#  - "/posts/2020-04-05_introducing-converscope/images/1.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/2.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/3.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/4.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/5.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/6.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/7.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/8.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/9.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/10.png"
-#  - "/posts/2020-04-05_introducing-converscope/images/11.png"
+images:
+ - "/posts/2024-11-12_supermarket_street_sweep_tsp/tsp_modified.png"
+ - "/posts/2024-11-12_supermarket_street_sweep_tsp/tsp_standard.png"
 
 
 ---
