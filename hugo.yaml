@@ -1,0 +1,17 @@
+baseURL: https://blog.daylen.com/
+languageCode: en-us
+title: daylen's blog
+theme: ["PaperMod"]
+params:
+  # disableThemeToggle: true
+  ShowReadingTime: true
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: daylen
+      name: daylen.com
+      url: https://daylen.com
+      weight: 20

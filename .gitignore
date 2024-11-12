@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+vendor/
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+
+# Build and output directories
+dist/
+build/
+public/
+
+# System files
+.DS_Store
+Thumbs.db
