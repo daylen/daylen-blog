@@ -1,5 +1,5 @@
 ---
-title: "Solving the Supermarket Street Sweep with Integer Linear Programming"
+title: "Solving the Supermarket Street Sweep with Integer Linear Programming and O1"
 author: "Daylen Yang"
 date: 2024-11-12T00:00:00.000Z
 # lastmod: 2024-11-11T21:47:17-08:00
